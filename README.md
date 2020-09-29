@@ -9,3 +9,9 @@
 [Base de Datos utilizada en programa de Reglas de Asociacion](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Base%20de%20Datos.csv)
 
 [Programa en Python Reglas de Asociacion](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Reglas_de_Asociacion.ipynb)
+
+[Ejercicios 1](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicios1_002.pdf)
+
+[Programa en Python Ejercicio 1 Reglas de Asociacion]()
+
+[Programa en Python Ejercicio 1]()
