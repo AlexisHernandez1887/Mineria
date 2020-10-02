@@ -15,3 +15,5 @@
 [Programa en Python Ejercicio 1 Reglas de Asociacion](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Reglas%20de%20Asociaci%C3%B3n.ipynb)
 
 [Programa en Python Ejercicio 1 Regresión](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Regresi%C3%B3n.ipynb)
+
+[Resumenes_1887948]()
