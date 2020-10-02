@@ -17,3 +17,5 @@
 [Programa en Python Ejercicio 1 Regresión](https://github.com/FernandoGonzalezC/MineriadeDatos/blob/master/Ejercicio%201%20-%20Regresi%C3%B3n.ipynb)
 
 [Resumenes_1887948](https://github.com/AlexisHernandez1887/Mineria/blob/master/Resumenes_1887948.pdf)
+
+[Mapa Mental 2](https://github.com/AlexisHernandez1887/Mineria/blob/master/MapaMental_2_1887948.pdf)
