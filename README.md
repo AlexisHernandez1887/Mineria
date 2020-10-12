@@ -19,3 +19,5 @@
 [Resumenes_1887948](https://github.com/AlexisHernandez1887/Mineria/blob/master/Resumenes_1887948.pdf)
 
 [Mapa Mental 2](https://github.com/AlexisHernandez1887/Mineria/blob/master/MapaMental_2_1887948.pdf)
+
+[Ejercicio Base de Datos](https://github.com/AlexisHernandez1887/Mineria/blob/master/EjercicioBaseDeDatos_1887948.pdf)
