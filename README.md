@@ -1,6 +1,6 @@
 # Mineria_de_Datos
 
-##Fase 1
+## Fase 1
 
 [Mapa Mental 1](https://github.com/AlexisHernandez1887/Mineria/blob/master/MapaMental_1_1887948.pdf)
 
@@ -20,4 +20,6 @@
 
 [Mapa Mental 2](https://github.com/AlexisHernandez1887/Mineria/blob/master/MapaMental_2_1887948.pdf)
 
-[Ejercicio Base de Datos](https://github.com/AlexisHernandez1887/Mineria/blob/master/EjercicioBaseDeDatos_1887948.pdf)
+## Fase 2
+
+[Ejercicio Base de Datos](https://github.com/AlexisHernandez1887/Mineria/blob/master/AnalisisBD_1887948.pdf)
