@@ -24,4 +24,4 @@
 
 [Ejercicio Base de Datos](https://github.com/AlexisHernandez1887/Mineria/blob/master/AnalisisBD_1887948.pdf)
 
-[Ejercicios Python Basico]()
+[Ejercicios Python Basico](https://github.com/AlexisHernandez1887/Mineria/blob/master/PythonBasico_1887948.ipynb)
