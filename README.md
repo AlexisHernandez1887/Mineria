@@ -25,3 +25,5 @@
 [Ejercicio Base de Datos](https://github.com/AlexisHernandez1887/Mineria/blob/master/AnalisisBD_1887948.pdf)
 
 [Ejercicios Python Basico](https://github.com/AlexisHernandez1887/Mineria/blob/master/PythonBasico_1887948.ipynb)
+
+[Avance 1 Proyecto Integrador](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Avance1-PIA_Equipo10_002.pdf)
