@@ -27,3 +27,5 @@
 [Ejercicios Python Basico](https://github.com/AlexisHernandez1887/Mineria/blob/master/PythonBasico_1887948.ipynb)
 
 [Avance 1 Proyecto Integrador](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Avance1-PIA_Equipo10_002.pdf)
+
+[Ejercicio limpieza de datos](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Ejercicio%20Limpieza%20de%20Datos_1811917.ipynb)
