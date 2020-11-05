@@ -28,6 +28,6 @@
 
 [Avance 1 Proyecto Integrador](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Avance1-PIA_Equipo10_002.pdf)
 
-[Ejercicio limpieza de datos](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Ejercicio%20Limpieza%20de%20Datos_1811917.ipynb)
+[Ejercicio limpieza de datos](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Ejercicio%20Limpieza%20de%20Datos.ipynb)
 
-[Visualización de datos](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Visualizaci%C3%B3n%20de%20los%20Datos.ipynb)
+[Visualización de datos]()
