@@ -30,4 +30,4 @@
 
 [Ejercicio limpieza de datos](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Ejercicio%20Limpieza%20de%20Datos.ipynb)
 
-[Visualización de datos]()
+[Visualización de datos](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/Visualizaci%C3%B3n%20de%20los%20Datos.ipynb)
