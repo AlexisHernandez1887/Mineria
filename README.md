@@ -35,3 +35,5 @@
 [Avance 2 Proyecto Integrador](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/AvancePIA_II_Grupo002_Equipo10.ipynb)
 
 [PIA_E10_G002](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/PIA_MINERIA_SAN_FRANCISCO%20(2).pdf)
+
+[PIA_Código_E10_G002](https://github.com/EvelynTrejoRodriguez/Mineria-de-Datos/blob/master/PIA_Grupo002_Equipo10.ipynb)
